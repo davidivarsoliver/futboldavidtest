@@ -1,0 +1,10 @@
+[
+    {"id":"team1","name":"Barcelona FC","field":"Camp Nou","league":"LaLiga", "photo":"./img/escudos/barcelona.png","position":"1"},
+    {"id":"team2","name":"Tottenham","field":"Tottenham Hotspur Stadium","league":"Premier League", "photo":"./img/escudos/tot.png","position":"2"},
+    {"id":"team3","name":"Manchester City","field":"Estadio Ciudad de Mánchester","league":"Premier League", "photo":"./img/escudos/mancity.png","position":"3"},
+    {"id":"team4","name":"Dortmund","field":"Signal Iduna Park","league":"Bundesliga", "photo":"./img/escudos/dortmund.png","position":"4"},
+    {"id":"team5","name":"Juventus","field":"Juventus Stadium","league":"SerieA", "photo":"./img/escudos/juventus.png","position":"5"},
+    {"id":"team6","name":"PSG","field":"Le Parc des Princes","league":"Ligue1", "photo":"./img/escudos/psg.png","position":"6"},
+    {"id":"team7","name":"Liverpool","field":"Anfield","league":"Premier League", "photo":"./img/escudos/liverpool.png","position":"7"},
+    {"id":"team4","name":"Real Madrid","field":"Estadio Santiago Bernabéu","league":"LaLiga", "photo":"./img/escudos/realmadrid.png","position":"8"}
+]

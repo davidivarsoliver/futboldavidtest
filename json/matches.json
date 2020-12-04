@@ -1,0 +1,10 @@
+[
+    {"id":"team1","name":"Barcelona FC","league":"LaLiga", "photo":"./img/escudos/barcelona.png","goals":"4","field":"Camp Nou"},
+    {"id":"team2","name":"Tottenham","league":"Premier League", "photo":"./img/escudos/tot.png","goals":"3","field":"Tottenham Hotspur Stadium"},
+    {"id":"team3","name":"Manchester City","league":"Premier League", "photo":"./img/escudos/mancity.png","goals":"3","field":"Estadio Ciudad de Mánchester"},
+    {"id":"team4","name":"Dortmund","league":"Bundesliga", "photo":"./img/escudos/dortmund.png","goals":"2","field":"Signal Iduna Park"},
+    {"id":"team5","name":"Juventus","league":"SerieA", "photo":"./img/escudos/juventus.png","goals":"3","field":"Juventus Stadium"},
+    {"id":"team6","name":"PSG","league":"Ligue1", "photo":"./img/escudos/psg.png","goals":"4","field":"Le Parc des Princes"},
+    {"id":"team7","name":"Liverpool","league":"Premier League", "photo":"./img/escudos/liverpool.png","goals":"2","field":"Anfield"},
+    {"id":"team4","name":"Real Madrid","league":"LaLiga", "photo":"./img/escudos/realmadrid.png","goals":"1","field":"Estadio Santiago Bernabéu"}
+]

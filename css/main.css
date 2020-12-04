@@ -1,0 +1,14 @@
+#content {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background: no-repeat;
+    
+}
+
+a {
+    cursor: pointer;
+}
+

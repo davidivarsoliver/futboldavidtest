@@ -1,0 +1,14 @@
+[
+    {"id":"ptop1","name":"Lionel Messi","league":"LaLiga","team":"FC Barcelona", "photo":"./img/top_players/messitop.png","goals":"28","position":"1"},
+    {"id":"ptop2","name":"Kylian Mbappé","league":"Ligue1","team":"PSG", "photo":"./img/top_players/mbappetop.png","goals":"25","position":"2"},
+    {"id":"ptop3","name":"Cristiano Ronaldo","league":"SerieA","team":"Juventus", "photo":"./img/top_players/cr7top.png","goals":"21","position":"3"},
+    {"id":"ptop4","name":"Neymar Júnior","league":"Ligue1","team":"PSG", "photo":"./img/top_players/neymartop.png","goals":"20","position":"4"},
+    {"id":"ptop5","name":"Mohamed Salah","league":"Premier League","team":"Liverpool FC", "photo":"./img/top_players/salahtop.png","goals":"19","position":"5"},
+    {"id":"ptop6","name":"Erling Haaland","league":"Bundesliga","team":"Dortmund", "photo":"./img/top_players/halandtop.png","goals":"18","position":"6"},
+    {"id":"ptop7","name":"Paulo Dybala","league":"SerieA","team":"Juventus", "photo":"./img/top_players/dybalatop.png","goals":"17","position":"7"},
+    {"id":"ptop8","name":"Harry Kane","league":"Premier League","team":"Tottenham Hotspur", "photo":"./img/top_players/kanetop.png","goals":"16","position":"8"},
+    {"id":"ptop9","name":"Son Heung-min","league":"Premier League","team":"Tottenham Hotspur", "photo":"./img/top_players/sontop.png","goals":"15","position":"9"},
+    {"id":"ptop10","name":"Karim Benzema","league":"LaLiga","team":"Real Madrid", "photo":"./img/top_players/benzematop.png","goals":"14","position":"10"},
+    {"id":"ptop11","name":"Kevin De Bruyne","league":"Premier League","team":"Manchester City", "photo":"./img/top_players/bruynetop.png","goals":"12","position":"11"},
+    {"id":"ptop12","name":"Ansu Fati","league":"LaLiga","team":"FC Barcelona", "photo":"./img/top_players/ansutop.png","goals":"10","position":"12"}
+]

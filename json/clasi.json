@@ -1,0 +1,10 @@
+[
+    {"id":"team1","name":"Barcelona FC","field":"Camp Nou","league":"LaLiga", "photo":"./img/escudos/barcelona.png","wins":"10","lose":"2","games":"12"},
+    {"id":"team2","name":"Tottenham","field":"Tottenham Hotspur Stadium","league":"Premier League", "photo":"./img/escudos/tot.png","wins":"9","lose":"2","games":"11"},
+    {"id":"team3","name":"Manchester City","field":"Estadio Ciudad de Mánchester","league":"Premier League", "photo":"./img/escudos/mancity.png","wins":"8","lose":"3","games":"11"},
+    {"id":"team4","name":"Dortmund","field":"Signal Iduna Park","league":"Bundesliga", "photo":"./img/escudos/dortmund.png","wins":"7","lose":"5","games":"12"},
+    {"id":"team5","name":"Juventus","field":"Juventus Stadium","league":"SerieA", "photo":"./img/escudos/juventus.png","wins":"6","lose":"4","games":"10"},
+    {"id":"team6","name":"PSG","field":"Le Parc des Princes","league":"Ligue1", "photo":"./img/escudos/psg.png","wins":"5","lose":"6","games":"11"},
+    {"id":"team7","name":"Liverpool","field":"Anfield","league":"Premier League", "photo":"./img/escudos/liverpool.png","wins":"4","lose":"7","games":"11"},
+    {"id":"team4","name":"Real Madrid","field":"Estadio Santiago Bernabéu","league":"LaLiga", "photo":"./img/escudos/realmadrid.png","wins":"2","lose":"8","games":"10"}
+]
